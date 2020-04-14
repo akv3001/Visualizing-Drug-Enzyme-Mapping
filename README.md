@@ -1,7 +1,6 @@
 /**************************************************
- A/Users/hadoop/Documents/workspace/Copy of Project_2uthor: Akanksha Verma
- Description:
-Implementing MapReduce using hadoop in java platform
+Author: Akanksha Verma
+Description:Implementing MapReduce using hadoop in java platform
 
 
 
