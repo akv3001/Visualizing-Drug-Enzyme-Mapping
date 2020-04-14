@@ -1,10 +1,7 @@
-/**************************************************
+**************************************************
 Author: Akanksha Verma
 Description:Implementing MapReduce using hadoop in java platform
-
-
-
-****************************************************/
+****************************************************
 Folder contains:
 
 Source Code: In Folder Akanksha_Verma 
