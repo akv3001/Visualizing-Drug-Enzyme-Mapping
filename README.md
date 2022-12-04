@@ -19,6 +19,6 @@ Build in terminal using javac
 
 Run test performed using command
 
-/usr/local/hadoop/bin/hadoop jar Desktop/FinalProject_2/AV_Project3.jar Desktop/FinalProject_2/Input/ Desktop/Akanksha
+/usr/local/hadoop/bin/hadoop jar AV_Project3.jar Input/location/ /output/location
  
 Outputs the # of Drug nodes and # of edges at the end
