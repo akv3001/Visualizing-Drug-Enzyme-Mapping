@@ -3,7 +3,7 @@ Author: Akanksha Verma
 
 
 
-Description:Implementing MapReduce using hadoop in java platform
+Description:Implementing MapReduce using hadoop in java platform for Drug and Enzyme mapping
 ****************************************************
 
 
