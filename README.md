@@ -13,7 +13,7 @@ Source Code: In Folder Akanksha_Verma
 
 Input used: In folder Input
 
-Jar file: AV_Project2.jar
+Jar file: AV_drug_enzyme_mapper.jar
 
 Build in terminal using javac
 
